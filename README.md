@@ -23,4 +23,3 @@ git checkout -b  Steve-jobs
 3 - Faça uma Pull Request
 
 Após implementada a solução, crie uma pull request com o seu projeto para esse repositório.
-
