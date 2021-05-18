@@ -15,3 +15,12 @@ Como usuário, desejo filtrar os personagens por nome, espécie e status.
 # Etapas
 # 1 - Fazer um fork desse repositório
 
+![image](https://user-images.githubusercontent.com/80771610/118685590-3af33f80-b7d1-11eb-8dea-2bf03d972ec0.png)
+
+# 2 - Criar um branch com o seu primeiro e último nome
+git checkout -b  Steve-jobs
+
+3 - Faça uma Pull Request
+
+Após implementada a solução, crie uma pull request com o seu projeto para esse repositório.
+
