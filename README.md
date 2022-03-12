@@ -1,32 +1,17 @@
-# Mobile-test
+# mobile_test
 
-# Orientações
-Para executar o desafio de Mobile Developer, você deverá utilizar Flutter, seguindo o passo-a-passo para a execução, atendendo aos critérios de aceitação.
+A new Flutter project.
 
-# Desafio
-Nossa equipe é apaixonada por Rick and Morty, assim, o seu desafio será criar uma aplicação utilizando a API pública da série https://rickandmortyapi.com/, para exibir a lista de personagens. Veja a documentação https://rickandmortyapi.com/documentation/#rest.
+## Getting Started
 
-Os requisitos da aplicação:
+This project is a starting point for a Flutter application.
 
-Como usuário, desejo visualizar na página inicial, uma lista de 20 personagens, contendo foto, nome e status.
-Como usuário, desejo clicar em um personagem da lista, para visualizar informações detalhadas.
-Como usuário, desejo filtrar os personagens por nome, espécie e status.
+A few resources to get you started if this is your first Flutter project:
 
-Requisitos opcionais:
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Utilização de paginação e teste unitário;
-Utilizar padrões semânticos em mensagens de commit.
-
-
-
-# Etapas
-# 1 - Fazer um fork desse repositório
-
-![image](https://user-images.githubusercontent.com/80771610/118685590-3af33f80-b7d1-11eb-8dea-2bf03d972ec0.png)
-
-# 2 - Criar um branch com o seu primeiro e último nome
-git checkout -b  Steve-jobs
-
-3 - Faça uma Pull Request
-
-Após implementada a solução, crie uma pull request com o seu projeto para esse repositório.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+# mobile_test
